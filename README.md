@@ -1,1 +1,1 @@
-My first readme
+Go hard on Alx or go home
